@@ -171,11 +171,6 @@ You can access the complete CloudCards project source here:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for more details.
-
----
 
 ## 🙏 Acknowledgments
 
